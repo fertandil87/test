@@ -35,7 +35,6 @@
     <!-- Plugins -->
 
     <!-- Core plugins -->
-    <gap:plugin name="org.apache.cordova.console" />
     <gap:plugin name="org.apache.cordova.inappbrowser" />
 
     <!--
